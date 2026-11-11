@@ -4,6 +4,11 @@
   </a>
 </p>
 
+<!-- Texto fijo en color azul debajo de la animación -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1&pause=9999999&color=00B4D8&center=true&vcenter=true&width=400&lines=🐾+%3C+Nadia+Trinidad+%2F%3E+🐾" alt="Fijo Azul" />
+</p>
+
 <h3 align="center">¡Bienvenido/a a mi perfil de GitHub! 🚀</h3>
 
 <p align="center">
