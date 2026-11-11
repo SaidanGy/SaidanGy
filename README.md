@@ -18,6 +18,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Java2D-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java3D" />
+  <img src="https://img.shields.io/badge/Java3D-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java3D" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
